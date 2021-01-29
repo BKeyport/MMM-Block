@@ -1,15 +1,18 @@
 /* Magic Mirror Module: MMM-Block
- * v0.1 - Apr 2020
+ * v1.1 - Jan 2021
  * By Brendan Keyport <brendan.keyport@gmail.com>
  *
  */
 
 Module.register("MMM-Block", {
-
+// Module config defaults.
+  defaults: {
+	  height: 600,
+  },
   // Override dom generator.
   getDom: function() {
 	var wrapper = document.createElement("div");
-    wrapper.innerHTML = "<table border=1 style='table-layout:fixed width=301px'><tr style='height:394px'><td style='text-align:center'>Reserved for Camera</td></tr></table>";
+    wrapper.innerHTML = "<table border=0 style='table-layout:fixed width=301px'><tr style='height:" + this.config.height + "px'><td style='text-align:center'>&nbsp;</td></tr></table>";
     return wrapper;
   }
 }
