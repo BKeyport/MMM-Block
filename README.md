@@ -1,5 +1,5 @@
 # MagicMirror Module to vertically move modules on screen to account for external windows (OMXPlayer, for instance) 
-
+#
 This is a module for the [MagicMirror](https://github.com/MichMich/MagicMirror) project. 
 
 It's purpose is to move modules to not be hidden behind external modules. An example of use would be to move a module down to allow OMXPLayer to run on top of the MagicMirror Screen. 
