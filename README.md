@@ -1,6 +1,12 @@
 # MagicMirror Module to vertically move modules on screen to account for external windows (OMXPlayer, for instance) 
 
-Please only host this project at http://github.com/BKeyport/MMM-Block. 
+The only valid copy of this module is on https://github.com/BKeyport/MMM-Block - any others are not valid. 
+
+If you fork and change any code, please let me know, if it's useful for the general public, I'd love to add it!
+
+If you find this module useful, and would like to contribute to the project, I appreciate the thought. Instead of giving to me, please donate to L'Arche Tahoma Hope at https://www.larchetahomahope.org/donate/ - in honor of Nancy Tyson. (Dedicate my donation checkbox). Nancy means the world to me. You don't have to notify me you have done so.
+
+THANK YOU for your consideration.
 
 If you like this project, or any other project I have done, please consider donating to L'Arche Tahoma Hope, a 501(c) org, at https://donorbox.org/in-support-of-l-arche-tahoma-hope
 
