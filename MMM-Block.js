@@ -16,7 +16,7 @@ Module.register("MMM-Block", {
 // Override dom generator.
 	getDom: function() {
 		var wrapper = document.createElement("div");
-		wrapper.innerHTML = "<div style='height:" + this.config.height + "px; padding: 0'></div>";
+		wrapper.innerHTML = "<div style='height:" + this.config.height + "px'></div>";
 		return wrapper;
 	}
 }
