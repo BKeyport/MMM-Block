@@ -13,7 +13,7 @@ Module.register("MMM-Block", {
   getDom: function() {
 	var wrapper = document.createElement("div");
     //wrapper.innerHTML = "<table border=0 style='table-layout:fixed width=301px'><tr style='height:" + this.config.height + "px'><td style='text-align:center'>&nbsp;</td></tr></table>";
-    wrapper.innerHTML = "<div style='height:" + this.config.height + "px'></div>";
+    wrapper.innerHTML = "<div style='height:" + this.config.height + "px; background-color: #98FFFF'></div>";
     return wrapper;
   }
 }
