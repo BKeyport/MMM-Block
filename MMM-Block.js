@@ -1,4 +1,4 @@
-/* Magic Mirror Module: MMM-Block
+/* MagicMirror² Module: MMM-Block
  * v1.1 - Jan 2021
  * By Brendan Keyport <brendan.keyport@gmail.com>
  *
