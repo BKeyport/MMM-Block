@@ -1,7 +1,7 @@
 {
   "name": "mmm-block",
   "version": "1.0.0",
-  "description": "MagicMirror Module to vertically move modules on screen.",
+  "description": "MagicMirror² module to vertically move other modules on screen.",
   "main": "MMM-Block.js",
   "repository": {
     "type": "git",
