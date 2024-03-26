@@ -1,0 +1,25 @@
+{
+  "name": "mmm-block",
+  "version": "1.0.0",
+  "description": "MagicMirror² module to vertically move other modules on screen.",
+  "main": "MMM-Block.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BKeyport/MMM-Block.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "Block",
+    "Vertical",
+    "Space",
+    "Spacer",
+    "Move",
+    "Adjust",
+  ],
+  "author": "BKeyport",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BKeyport/MMM-Block/issues"
+  },
+  "homepage": "https://github.com/BKeyport/MMM-Block#readme"
+}

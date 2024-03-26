@@ -23,6 +23,14 @@ Clone this repository in your ~/MagicMirror/modules/ folder ( $ cd ~MagicMirror/
 ```
 git clone https://github.com/BKeyport/MMM-Block.git
 ```
+## Update
+
+Go to the module's folder inside MagicMirror modules folder and pull the latest version from GitHub:
+
+```
+cd ~/MagicMirror/modules/MMM-Block
+git pull
+```
 
 ## Using the module
 
