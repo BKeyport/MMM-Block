@@ -16,6 +16,8 @@ This is a module for the [MagicMirror](https://github.com/MagicMirrorOrg/MagicMi
 
 It's purpose is to move modules to not be hidden behind external modules. An example of use would be to move a module down to allow OMXPLayer to run on top of the MagicMirror Screen. 
 
+![Screenshot](example.png)
+
 ## Installation
 
 Clone this repository in your ~/MagicMirror/modules/ folder ( $ cd ~MagicMirror/modules/ ):
