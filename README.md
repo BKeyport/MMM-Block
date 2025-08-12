@@ -12,6 +12,8 @@ If you like this project, or any other project I have done, please consider dona
 
 If you'd like, make a note in honor of Nancy Tyson. Thank you. 
 
+### this module is suspended and is no longer actively being maintained. If you'd like to take it over, please let me know. 
+
 This is a module for the [MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) project. 
 
 It's purpose is to move modules to not be hidden behind external modules. An example of use would be to move a module down to allow OMXPLayer to run on top of the MagicMirror Screen. 
