@@ -1,4 +1,4 @@
-# MagicMirror Module to vertically move modules on screen to account for external windows.
+# MagicMirror² Module to vertically move modules on screen to account for external windows.
 
 The only valid copy of this module is on https://github.com/BKeyport/MMM-Block - any others are not valid. 
 
@@ -8,26 +8,21 @@ If you find this module useful, and would like to contribute to the project, I a
 
 THANK YOU for your consideration.
 
-If you like this project, or any other project I have done, please consider donating to L'Arche Tahoma Hope, a 501(c) org, at https://donorbox.org/in-support-of-l-arche-tahoma-hope
+This is a module for the [MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror) project. 
 
-If you'd like, make a note in honor of Nancy Tyson. Thank you. 
-
-### this module is suspended and is no longer actively being maintained. If you'd like to take it over, please let me know. 
-
-This is a module for the [MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) project. 
-
-It's purpose is to move modules to not be hidden behind external modules. An example of use would be to move a module down to allow OMXPLayer to run on top of the MagicMirror Screen. 
+It's purpose is to move modules to not be hidden behind external modules. An example of use would be to move a module down to allow OMXPLayer to run on top of the MagicMirror² Screen. 
 
 ## Installation
 
-Clone this repository in your ~/MagicMirror/modules/ folder ( $ cd ~MagicMirror/modules/ ):
+Clone this repository in your ~/MagicMirror/modules/ folder ( $ cd ~/MagicMirror/modules/ ):
 
-``` bash
+```bash
+cd ~/MagicMirror/modules
 git clone https://github.com/BKeyport/MMM-Block.git
 ```
 ## Update
 
-Go to the module's folder inside MagicMirror modules folder and pull the latest version from GitHub:
+Go to the module's folder inside MagicMirror² modules folder and pull the latest version from GitHub:
 
 ``` bash
 cd ~/MagicMirror/modules/MMM-Block
