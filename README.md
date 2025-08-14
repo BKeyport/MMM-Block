@@ -8,10 +8,6 @@ If you find this module useful, and would like to contribute to the project, I a
 
 THANK YOU for your consideration.
 
-If you like this project, or any other project I have done, please consider donating to L'Arche Tahoma Hope, a 501(c) org, at https://donorbox.org/in-support-of-l-arche-tahoma-hope
-
-If you'd like, make a note in honor of Nancy Tyson. Thank you. 
-
 ### this module is suspended and is no longer actively being maintained. If you'd like to take it over, please let me know. 
 
 This is a module for the [MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) project. 
@@ -20,9 +16,10 @@ It's purpose is to move modules to not be hidden behind external modules. An exa
 
 ## Installation
 
-Clone this repository in your ~/MagicMirror/modules/ folder ( $ cd ~MagicMirror/modules/ ):
+Clone this repository in your ~/MagicMirror/modules/ folder ( $ cd ~/MagicMirror/modules/ ):
 
-``` bash
+```bash
+cd ~/MagicMirror/modules
 git clone https://github.com/BKeyport/MMM-Block.git
 ```
 ## Update
