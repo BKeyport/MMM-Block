@@ -45,5 +45,3 @@ To use this module, add it to the modules array in the config/config.js file nex
 ```
 
 The only config option is "height" - as seen above. Set it to the pixels (px) you'd like to move an item. 
-
-
