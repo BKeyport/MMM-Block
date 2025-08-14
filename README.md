@@ -8,8 +8,6 @@ If you find this module useful, and would like to contribute to the project, I a
 
 THANK YOU for your consideration.
 
-### this module is suspended and is no longer actively being maintained. If you'd like to take it over, please let me know. 
-
 This is a module for the [MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror) project. 
 
 It's purpose is to move modules to not be hidden behind external modules. An example of use would be to move a module down to allow OMXPLayer to run on top of the MagicMirror² Screen. 
