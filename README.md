@@ -4,8 +4,7 @@ The only valid copy of this module is on https://github.com/BKeyport/MMM-Block -
 
 If you fork and change any code, please let me know, if it's useful for the general public, I'd love to add it!
 
-If you find this module useful, and would like to contribute to the project, I appreciate the thought. Instead of giving to me, please donate to L'Arche Tahoma Hope at https://www.larchetahomahope.org/donate/ - in honor of Nancy Tyson. (Dedicate my donation checkbox). Nancy means the world to me. You don't have to notify me you have done so.
-
+If you find this module useful, and would like to contribute to the project, I appreciate the thought. Instead of giving to me, please donate to a disability rights organization of your choice. 
 THANK YOU for your consideration.
 
 This is a module for the [MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror) project. 
