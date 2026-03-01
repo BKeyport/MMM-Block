@@ -7,6 +7,8 @@ If you fork and change any code, please let me know, if it's useful for the gene
 If you find this module useful, and would like to contribute to the project, I appreciate the thought. Instead of giving to me, please donate to a disability rights organization of your choice. 
 THANK YOU for your consideration.
 
+Before use of this magic mirror module, please read the license section below. 
+
 This is a module for the [MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror) project. 
 
 It's purpose is to move modules to not be hidden behind external modules. An example of use would be to move a module down to allow OMXPLayer to run on top of the MagicMirror² Screen. 
@@ -45,4 +47,7 @@ To use this module, add it to the modules array in the config/config.js file nex
 
 The only config option is "height" - as seen above. Set it to the pixels (px) you'd like to move an item. 
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details. However, the following text is added:
 
+Due to regulations being out of control, this software, as well as the entire MagicMirror project, may be illegal to use in any location with age verification laws. This software will cannot and will not provide any age verification. It is your responsibility to verify with your local government legality of software. The authors of this software and modules used both up and downstream from this product, cannot be held liable for use in a situation where age verification is required. This is your only notification.
